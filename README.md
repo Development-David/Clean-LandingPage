@@ -1,2 +1,2 @@
 # Clean-LandingPage
-A clean LadingPage with Vanilla JS
+A clean lading page with Vanilla JS
